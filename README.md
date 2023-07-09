@@ -1,19 +1,26 @@
 ## Current Projects 
 
 
-***
-
 ## Independent University Projects 
 
-
-### Probability Words in Academic Writing
 <details>
-description  
-[repo](https://github.com/meglin234/probability-words)
+
+  <summary> Probability Words in Academic Writing </summary> 
+
+  description 
+
+  [repo](https://github.com/meglin234/probability-words)
+
 </details>
 
-### [The Fourish W's of Megan's Concert History](https://meglin234.github.io/project-portfolio/concerts-flexdashboard/docs/index.html) - FlexDashboard
 
+<details>
+
+  <summary> The Fourish W's of Megan's Concert History </summary> 
+
+  [FlexDashboard](https://meglin234.github.io/project-portfolio/concerts-flexdashboard/docs/index.html)
+
+</details>
 
 ### [Bystander Effect Model](https://github.com/meglin234/bystander-effect-model) - NetLogo 
 
