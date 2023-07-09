@@ -16,9 +16,7 @@
 <summary> Probability Words in Academic Writing </summary>  
 </br>
 
-description 
-
-[repo](https://github.com/meglin234/probability-words)
+Explores the usage of [probability words in academic text](https://github.com/meglin234/probability-words) using natural language processing techniques. 
 
 </details>
 
@@ -28,7 +26,7 @@ description
 <summary> Bystander Effect Model </summary>  
 </br>
 
-[Agent-Based Model](https://github.com/meglin234/bystander-effect-model) that allows users to specify the number of bystanders present. The model uses data from violent incidents captured on CCTV in Copenhagen, Denmark, to show what percentage of bystanders intervene, each intervener’s demographic information, and details about the environment. The data is accessed from two CSV files.
+An [Agent-Based Model](https://github.com/meglin234/bystander-effect-model) simulating the bystander effect as observed in real-life situations that allows users to specify the number of bystanders present. 
 
 </details>
 
@@ -51,9 +49,7 @@ description
 <summary> Star Networks </summary>  
 </br>
 
-Team Role: Leader and Visualization 
-
-[repo](https://github.com/meglin234/star-networks)
+[Network](https://github.com/meglin234/star-networks) of directors and their crew members examining the phenomenon of directors re-using the same crew. 
 
 </details>
 
@@ -94,8 +90,9 @@ Websites presenting scientific studies in a format accessible to the general pub
 
 </details>
 
+## Standalone Vizzes
 
-
+[Visualizations](https://github.com/meglin234/stand-alone-vizzes) that were not part of a bigger project
 
 
 
