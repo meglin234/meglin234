@@ -5,20 +5,20 @@
 
 <details>
 
-  <summary> Probability Words in Academic Writing </summary> 
+  <summary> Probability Words in Academic Writing </summary>  
+  
+      description 
 
-  description 
-
-  [repo](https://github.com/meglin234/probability-words)
+      [repo](https://github.com/meglin234/probability-words)
 
 </details>
 
 
 <details>
 
-  <summary> The Fourish W's of Megan's Concert History </summary> 
+  <summary> The Fourish W's of Megan's Concert History </summary>  
 
-  [FlexDashboard](https://meglin234.github.io/project-portfolio/concerts-flexdashboard/docs/index.html)
+      [FlexDashboard](https://meglin234.github.io/project-portfolio/concerts-flexdashboard/docs/index.html)
 
 </details>
 
