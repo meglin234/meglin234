@@ -28,7 +28,7 @@ Explores the usage of [probability words in academic text](https://github.com/me
 
 An [Agent-Based Model](https://github.com/meglin234/bystander-effect-model) simulating the bystander effect as observed in real-life situations that allows users to specify the number of bystanders present. 
 
-![Model Interface](https://github.com/meglin234/bystander-effect-model/blob/main/model_interface.png?raw=true "Title")
+![Model Interface](https://github.com/meglin234/bystander-effect-model/blob/main/model_interface.png?raw=true "Model Interface")
 
 </details>
 
