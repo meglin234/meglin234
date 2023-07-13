@@ -48,7 +48,7 @@ An [Agent-Based Model](https://github.com/meglin234/bystander-effect-model) simu
 
 <details>
 
-<summary> Star Networks </summary>  
+<summary> StarNetworks </summary>  
 </br>
 
 [Network](https://github.com/meglin234/star-networks) of directors and their crew members examining the phenomenon of directors re-using the same crew. 
@@ -97,7 +97,13 @@ Websites presenting scientific studies in a format accessible to the general pub
 [Visualizations](https://github.com/meglin234/stand-alone-vizzes) that were not part of a bigger project
 
 
+## Presentation Slides 
 
+[StarNetworks](https://github.com/meglin234/star-networks/blob/main/Report%20%26%20Presentation/StarNetworks_Slides.pdf) 
+
+[Probability Words in Academic Text](https://github.com/meglin234/probability-words/blob/main/Report%20%26%20Presentation/WEPs_Slides.pdf)
+
+[Bystander Effect Model](https://github.com/meglin234/bystander-effect-model/blob/main/Report%20%26%20Presentaion/FinalPresentation.pdf) 
 
 
 
