@@ -5,7 +5,7 @@
 <summary> Dutch Blitz Score Sheet </summary>  
 </br>
 
-[Google Sheets](link) for keeping score and displaying game stats. 
+[Google Sheets](https://docs.google.com/spreadsheets/d/1srh94b82ffX63nBxV5yO43s0whbu2h8b0b4a36mg2hg/edit?usp=sharing) for keeping score and displaying game stats. 
 
 </details>
 
@@ -88,7 +88,7 @@ Websites presenting scientific studies in a format accessible to the general pub
 <summary> Uno Score Sheet </summary>  
 </br>
 
-[Google Sheets](link) for keeping score and displaying game stats. 
+[Google Sheets](https://docs.google.com/spreadsheets/d/10-Tkx7bFIVvDEqg6iccUGgDyjf8x6HNHv9wPd7ZSLw8/edit?usp=sharing) for keeping score and displaying game stats. 
 
 </details>
 
