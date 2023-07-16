@@ -100,9 +100,9 @@ Websites presenting scientific studies in a format accessible to the general pub
 ## Presentation Slides 
 
 [<img src="title_slides/SN_title_slide.png" width="20%" title="StarNetworks Presentation"/>](https://github.com/meglin234/star-networks/blob/main/Report%20%26%20Presentation/StarNetworks_Slides.pdf)
-<img src="title_slides/SN_title_slide.png" width="20%" title="StarNetworks Presentation"/>
+<img src="title_slides/white_space.png" width="3%" title="StarNetworks Presentation"/>
 [<img src="title_slides/NLP_title_slide.png" width="20%" title="Probabalistic Words in Academic Text Presentation"/>](https://github.com/meglin234/probability-words/blob/main/Report%20%26%20Presentation/WEPs_Slides.pdf)
-<img src="title_slides/SN_title_slide.png" width="20%" title="StarNetworks Presentation"/>
+<img src="title_slides/white_space.png" width="3%" title="StarNetworks Presentation"/>
 [<img src="title_slides/ABM_title_slide.png" width="20%" title="Bystander Effect Model Presentation"/>](https://github.com/meglin234/bystander-effect-model/blob/main/Report%20%26%20Presentaion/FinalPresentation.pdf)
 
 
