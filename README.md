@@ -87,7 +87,7 @@ Websites presenting scientific studies in a format accessible to the general pub
 <summary> The Fourish W's of Megan's Concert History </summary>  
 </br>
 
-[FlexDashboard](https://meglin234.github.io/project-portfolio/concerts-flexdashboard/docs/index.html) detailing the Who, What, When, and Where of concerts I have been to. 
+[FlexDashboard](https://meglin234.github.io/concerts/concerts-flexdashboard/docs/index.html) detailing the Who, What, When, and Where of concerts I have attended. 
 
 </details>
 
