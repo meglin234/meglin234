@@ -2,6 +2,24 @@
 
 <details>
 
+<summary> Concerts Database and Visualization </summary>  
+</br>
+
+[Database](https://github.com/meglin234/concert-database/tree/main) of all the concerts I have attended with an accompanying [visualization](https://meglin234.github.io/concert-cards/NewConcertCards/index.html).
+
+</details>
+
+<details>
+
+<summary> Dramas Database and Dashboard </summary>  
+</br>
+
+Database of all the dramas I have watched with an accompanying dashboard.
+
+</details>
+
+<details>
+
 <summary> Dutch Blitz Score Sheet </summary>  
 </br>
 
@@ -9,14 +27,6 @@
 
 </details>
 
-<details>
-
-<summary> Concerts Database and Revised Dashboard</summary>  
-</br>
-
-[Database](https://github.com/meglin234/concert-database/tree/main) of all the concerts I have been to. Revised Concert History Dashboard to come. 
-
-</details>
 
 ## Independent University Projects 
 
