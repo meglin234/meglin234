@@ -5,7 +5,7 @@
 <summary> Concerts Database and Visualization </summary>  
 </br>
 
-[Database](https://github.com/meglin234/concert-database/tree/main) of all the concerts I have attended with an accompanying [visualization](https://meglin234.github.io/concert-cards/NewConcertCards/index.html).
+[Database](https://github.com/meglin234/concert-database/tree/main) of all the concerts I have attended with an accompanying [visualization](https://meglin234.github.io/concert-cards/ConcertCards_2.1/index.html).
 
 </details>
 
@@ -15,15 +15,6 @@
 </br>
 
 Database of all the dramas I have watched with an accompanying dashboard.
-
-</details>
-
-<details>
-
-<summary> Dutch Blitz Score Sheet </summary>  
-</br>
-
-[Google Sheets](https://docs.google.com/spreadsheets/d/1srh94b82ffX63nBxV5yO43s0whbu2h8b0b4a36mg2hg/edit?usp=sharing) for keeping score and displaying game stats. 
 
 </details>
 
@@ -128,6 +119,15 @@ Websites presenting scientific studies in a format accessible to the general pub
 </br>
 
 [Google Sheets](https://docs.google.com/spreadsheets/d/10-Tkx7bFIVvDEqg6iccUGgDyjf8x6HNHv9wPd7ZSLw8/edit?usp=sharing) for keeping score and displaying game stats. 
+
+</details>
+
+<details>
+
+<summary> Dutch Blitz Score Sheet </summary>  
+</br>
+
+[Google Sheets](https://docs.google.com/spreadsheets/d/1srh94b82ffX63nBxV5yO43s0whbu2h8b0b4a36mg2hg/edit?usp=sharing) for keeping score and displaying game stats. 
 
 </details>
 
